@@ -1,0 +1,7 @@
+package com.example.clearableedittext;
+
+import LinearLayout;
+
+public class ClearableEditText extends LinearLayout {
+
+}

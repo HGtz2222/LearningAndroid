@@ -1,0 +1,15 @@
+package com.example.contactpicker;
+
+import android.app.Activity;
+import android.os.Bundle;
+
+public class ContactPickerTest extends Activity{
+	public static final int PICK_CONTACT = 1;
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		// TODO Auto-generated method stub
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.contactpickertester);
+	}
+
+}

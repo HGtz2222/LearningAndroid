@@ -1,0 +1,6 @@
+
+    <resources>
+        <color name="background_color">#f555</color>
+        <color name="marker_color">#AFFF</color>
+        <color />
+    </resources>

@@ -1,0 +1,9 @@
+package com.example.clearableedittext;
+
+import android.widget.LinearLayout;
+
+
+
+public class ClearableEditText extends LinearLayout {
+
+}

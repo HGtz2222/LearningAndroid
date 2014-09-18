@@ -1,0 +1,18 @@
+package com.example.clearableedittext;
+
+import android.content.Context;
+import android.view.LayoutInflater;
+import android.widget.LinearLayout;
+
+
+
+public class ClearableEditText extends LinearLayout {
+
+	public ClearableEditText(Context context) {
+		super(context);
+		
+		String infService = Context.LAYOUT_INFLATER_SERVICE;
+		LayoutInflater li = (LayoutInflater)getContext().getSystemService(infService);
+	}
+
+}

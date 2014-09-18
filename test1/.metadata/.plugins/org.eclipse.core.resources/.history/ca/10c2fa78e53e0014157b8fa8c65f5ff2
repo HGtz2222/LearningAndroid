@@ -1,0 +1,19 @@
+package com.example.clockdemo;
+
+import android.content.Context;
+import android.content.Intent;
+
+public class AlarmHelper {
+
+	public AlarmHelper(Context c) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public void openAlarm(int i, String string, String string2,
+			long timeInMillis) {
+		Intent intent = new Intent();
+		intent.putExtra("_id", id);
+		
+	}
+
+}

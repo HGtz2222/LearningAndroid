@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Wrap in Container" description="Wrap in Container" file="/test1/res/layout/activity_main.xml" flags="6" id="com.android.ide.eclipse.adt.refactoring.wrapin" name="linear1" proj="/test1" sel-end="798" sel-start="496" stamp="1410258236536" type="android.widget.LinearLayout"/>&#x0A;<refactoring comment="Wrap in Container" description="Wrap in Container" file="/test1/res/layout/activity_main.xml" flags="6" id="com.android.ide.eclipse.adt.refactoring.wrapin" name="linear" proj="/test1" sel-end="1022" sel-start="496" stamp="1410258274091" type="android.widget.LinearLayout"/>
+</session>

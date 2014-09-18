@@ -1,0 +1,16 @@
+package com.example.clearableedittext;
+
+import android.content.Context;
+import android.widget.LinearLayout;
+
+
+
+public class ClearableEditText extends LinearLayout {
+
+	public ClearableEditText(Context context) {
+		super(context);
+		
+		
+	}
+
+}
