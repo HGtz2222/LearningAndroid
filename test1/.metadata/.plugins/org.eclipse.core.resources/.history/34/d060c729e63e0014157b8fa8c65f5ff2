@@ -1,7 +1,0 @@
-package com.example.clockdemo;
-
-import android.content.BroadcastReceiver;
-
-public class CallAlarm extends BroadcastReceiver{
-
-}

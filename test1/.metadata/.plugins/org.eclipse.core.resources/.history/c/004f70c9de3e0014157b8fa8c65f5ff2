@@ -1,9 +1,0 @@
-package com.example.clockdemo;
-
-public class AlarmHelper {
-
-	public AlarmHelper(ClockDemo clockDemo) {
-		// TODO Auto-generated constructor stub
-	}
-
-}
